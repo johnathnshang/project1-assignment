@@ -9,7 +9,9 @@ html {
     row-gap: 1rem;
     margin: 0 1rem 3rem 1rem;
 }
-
+.row-no-margin {
+    margin-bottom: 0 !important;
+}
 .column {
     position: relative;
 }
@@ -235,21 +237,21 @@ img {
 
 .main-nav__item:nth-child(1) {
     background-color: #25c389;
-    background-image: url(../img/icon/placeholder.svg), url(../img/icon/placeholder.svg);
+    background-image: url(../img/icon/circle02.svg), url(../img/icon/bullhorn.svg);
 }
 .main-nav__item:nth-child(2) {
     background-color: #ffb901;
-    background-image: url(../img/icon/placeholder.svg), url(../img/icon/placeholder.svg);
+    background-image: url(../img/icon/circle02.svg), url(../img/icon/bullhorn.svg);
 }
 .main-nav__item:nth-child(3) {
     background-color: #de6262;
-    background-image: url(../img/icon/placeholder.svg), url(../img/icon/placeholder.svg);
+    background-image: url(../img/icon/circle02.svg), url(../img/icon/bullhorn.svg);
 }
 .main-nav__item:nth-child(4) {
     background-color: #1681bd;
-    background-image: url(../img/icon/placeholder.svg), url(../img/icon/placeholder.svg);
+    background-image: url(../img/icon/circle02.svg), url(../img/icon/bullhorn.svg);
 }
 .main-nav__item:nth-child(5) {
     background-color: #166ba2;
-    background-image: url(../img/icon/placeholder.svg), url(../img/icon/placeholder.svg);
+    background-image: url(../img/icon/circle02.svg), url(../img/icon/envelop.svg);
 }
